@@ -1,6 +1,6 @@
 # cryptobubble-webhook
 
-Cryptobubble-webhook is scraping Top 1000 coins from [cryptobubbles.net](cryptobubbles.net). Creates bubble image and automatically send that image to Discord Webhook.
+Cryptobubble-webhook is scraping Top 1000 coins from [cryptobubbles.net](https://cryptobubbles.net). Creates bubble image and automatically send that image to Discord Webhook.
 
 # 📌 Example Image
 ![Example Image](EXAMPLE.png)
